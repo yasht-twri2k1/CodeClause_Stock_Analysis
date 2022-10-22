@@ -8,7 +8,7 @@ Stock analysis is the evaluation or examination of the stock market. There are m
 Simple stock is a basic stock analysis tutorial. There are 7 parts in this tutorial.
 
 1.Import Libraries<br>
-2.Get data from Yahoo<br>
+2.Get data from Yahoo financial<br>
 3.Analysis Data <br>
 4.Understand the Data based on Statistics<br> 
 5.Calculate Prices <br>
@@ -26,5 +26,7 @@ Another Solution for Prediction:
 <ul>
 <li> LSTM Time series model Analysis</li>
 </ul>
+
+
 
 <h2>Thank You!</h2>
