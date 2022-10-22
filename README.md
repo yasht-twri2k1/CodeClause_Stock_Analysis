@@ -1,9 +1,9 @@
 # CodeClause_Stock_Analysis
-Simple_Stock _Analysis 
+<h2>Simple_Stock _Analysis</h2> 
 
 Stock analysis is the evaluation or examination of the stock market. There are many trading tools to use to analysis stocks such as fundamental and technical analysis. Fundamental analysis is more focused on data from the financial statements, economic reports, and company assets. Technical analysis is based on the study of the past of historical price to predict the future price movement. However, this tutorial is not to get rich quick. Therefore, do not use your money to trade based on this stock analysis. Please do not use this method to invest with your money and I am not responsible for you loss.
 
-Approach to Simple Stock Analysis:
+<h2>Approach to Simple Stock Analysis:</h2>
 
 Simple stock is a basic stock analysis tutorial. There are 7 parts in this tutorial.
 
@@ -15,7 +15,7 @@ Simple stock is a basic stock analysis tutorial. There are 7 parts in this tutor
 6.Plot Charts <br>
 7.Calculate Holding Period Return<br>
 
-Solution:
+<h2>Solution:</h2>
 <ul>
 <li>Statistic Analysis https://www.investopedia.com/exam-guide/series-65/quantitative-methods/holding-period-return.asp</li>
 <li>Financial Technical Analysis Library "TA-Lib"</li>
@@ -26,3 +26,5 @@ Another Solution for Prediction:
 <ul>
 <li> LSTM Time series model Analysis</li>
 </ul>
+
+<h2>Thank You!</h2>
